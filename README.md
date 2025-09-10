@@ -45,7 +45,7 @@ Pasos llevados a cabo para lograr subir la funcion en Azure:
 
   En mi caso esta fue la url que me devolvio el output del codigo, es decir la salida del terraform apply: url = "https://jojoafuncsa123.azurewebsites.net/api/jojoafuncsa123"
 
-  Pero si vamos desde Azure el link es este: "jojoafuncsa123.azurewebsites.net" , esta pagina lleva a una interfaz web visual que me muestra que mi funcion esta desplegada y funcionando correctamente.
+  Pero si vamos desde Azure el link es este: "https://jojoafuncsa123.azurewebsites.net" , esta pagina lleva a una interfaz web visual que me muestra que mi funcion esta desplegada y funcionando correctamente.
 
   Pantallazos adjuntos de la practica realizada:
 
