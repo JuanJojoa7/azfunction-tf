@@ -50,10 +50,13 @@ Pasos llevados a cabo para lograr subir la funcion en Azure:
   Pantallazos adjuntos de la practica realizada:
 
   Figura 1: Imagen Correspondiente a la ejecucion del comando terraform init
-
+  ![Terraform Init](images/terrainit.png)
+  
   Figura 2: Imagen Correspondiente a la ejecucion del comando terraform plan
+  ![Terraform Plan](images/terraplan.png)
 
   Figura 3: Imagen Correspondiente a la ejecucion del comando terraform apply
+  ![Terraform Apply](images/terraapply.png)
 
   Figura 4: Imagen Correspondiente a la funcion desplegada en Azure
-  
+  ![Azure Function](images/azure.png)
